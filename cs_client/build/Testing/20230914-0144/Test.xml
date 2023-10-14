@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20230914-0144-Experimental"
+	Name="hxf-PC"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="hxf-PC"
+	OSRelease="6.2.0-32-generic"
+	OSVersion="#32~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug 18 10:40:13 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="80"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15379"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4234.67"
+	>
+	<Testing>
+		<StartDateTime>Sep 14 14:35 CST</StartDateTime>
+		<StartTestTime>1694673342</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 14 14:35 CST</EndDateTime>
+		<EndTestTime>1694673342</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

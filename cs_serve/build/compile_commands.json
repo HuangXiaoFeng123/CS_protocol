@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hxf/cs_serve/build",
+  "command": "/usr/bin/gcc  -I/home/hxf/cs_serve/include -g -o CMakeFiles/cs_serve.dir/src/main.c.o -c /home/hxf/cs_serve/src/main.c",
+  "file": "/home/hxf/cs_serve/src/main.c"
+},
+{
+  "directory": "/home/hxf/cs_serve/build",
+  "command": "/usr/bin/gcc  -I/home/hxf/cs_serve/include -g -o CMakeFiles/cs_serve.dir/src/serve.c.o -c /home/hxf/cs_serve/src/serve.c",
+  "file": "/home/hxf/cs_serve/src/serve.c"
+}
+]

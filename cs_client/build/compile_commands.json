@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hxf/cs_client/build",
+  "command": "/usr/bin/gcc  -I/home/hxf/cs_client/include -g -o CMakeFiles/cs_client.dir/src/client.c.o -c /home/hxf/cs_client/src/client.c",
+  "file": "/home/hxf/cs_client/src/client.c"
+},
+{
+  "directory": "/home/hxf/cs_client/build",
+  "command": "/usr/bin/gcc  -I/home/hxf/cs_client/include -g -o CMakeFiles/cs_client.dir/src/main.c.o -c /home/hxf/cs_client/src/main.c",
+  "file": "/home/hxf/cs_client/src/main.c"
+}
+]

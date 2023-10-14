@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -rdynamic CMakeFiles/cs_client.dir/src/main.c.o CMakeFiles/cs_client.dir/src/serve.c.o -o ../bin/cs_client 

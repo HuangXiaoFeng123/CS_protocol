@@ -1,0 +1,5 @@
+/home/hxf/cs_client/build/CMakeFiles/cs_client.dir
+/home/hxf/cs_client/build/CMakeFiles/package.dir
+/home/hxf/cs_client/build/CMakeFiles/package_source.dir
+/home/hxf/cs_client/build/CMakeFiles/edit_cache.dir
+/home/hxf/cs_client/build/CMakeFiles/rebuild_cache.dir
